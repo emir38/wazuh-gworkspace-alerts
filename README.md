@@ -19,7 +19,7 @@ This repository contains a Python script that integrates **Google Workspace Aler
 
 All configuration and setup steps — including Google Cloud service account creation, domain-wide delegation, API scopes, and Wazuh integration — are explained in my LinkedIn post:
 
-🔗 **[See full guide in my LinkedIn post](LINKPOST)**
+🔗 **[See full guide in my LinkedIn post](https://www.linkedin.com/pulse/exporting-google-workspace-alert-center-logs-siem-emir-ataide-codof)**
 
 ---
 
